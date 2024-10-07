@@ -8,16 +8,26 @@ This Python-based Voice Assistant, named Sky, utilizes various libraries to prov
 
 Features
 Voice Recognition: Uses the speech_recognition library to capture and process voice commands.
+
 Text-to-Speech: Utilizes the pyttsx3 library to convert text responses into audible speech.
+
 Web Browsing: Opens popular websites (e.g., Google, YouTube, Facebook) based on voice commands.
+
 Information Retrieval: Searches and summarizes information from Wikipedia.
+
 Email Functionality: Sends emails through a Gmail SMTP server (requires user credentials).
+
 Music Playback: Plays songs from a specified local directory.
+
 Time Reporting: Announces the current time.
 Technologies Used
+
 Python
+
 pyttsx3
+
 SpeechRecognition
+
 Wikipedia API
 Webbrowser
 SMTP (for email)
