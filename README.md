@@ -6,7 +6,7 @@ Make sure to test this code in an appropriate environment where microphone acces
 
 This Python-based Voice Assistant, named Sky, utilizes various libraries to provide a hands-free interface for performing tasks through voice commands. The assistant can execute a variety of functions such as searching Wikipedia, opening websites, playing music, telling the time, and sending emails.
 
-Features
+# **Features**
 Voice Recognition: Uses the speech_recognition library to capture and process voice commands.
 
 Text-to-Speech: Utilizes the pyttsx3 library to convert text responses into audible speech.
@@ -19,8 +19,15 @@ Email Functionality: Sends emails through a Gmail SMTP server (requires user cre
 
 Music Playback: Plays songs from a specified local directory.
 
+**💡 Future Enhancements**
+
+Adding support for multiple languages.
+Integration with smart home devices.
+Improved NLP for more complex queries.
+
 Time Reporting: Announces the current time.
-Technologies Used
+
+**Technologies Used**
 
 Python
 
